@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&display=swap');
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    font-size:2rem;
+    background-color: rebeccapurple;
+    height:100vh;
+    color:whitesmoke;
+    font-family: 'Dongle', sans-serif;
+}
